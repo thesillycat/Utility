@@ -1,0 +1,15 @@
+# Utility Beta
+
+**NEW COMMANDS:**
+
+**Community**
+- /updates
+- /tic-tac-toe
+- /secret (a very silly command)
+**Moderation**
+- /ban
+- /kick
+- /say
+- /timeout
+
+*https://github.com/thesillycat/Utility*
